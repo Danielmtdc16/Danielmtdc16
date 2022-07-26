@@ -2,8 +2,8 @@
 
 <div align="center" style="display: flex; flex-direction: row;">
   <a href="https://github.com/Danielmtdc16">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Danielmtdc16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmtdc16&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Danielmtdc16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmtdc16&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 
